@@ -1,6 +1,3 @@
-# Matomo + Docker compose
-Projet créé comme support pour l'article "[L'analytics avec Matomo](https://www.leblogdesam.net/posts/lanalytics-avec-matomo/)" de mon blog www.leblogdesam.net. 
-
 Ce repository se base sur [cet exemple](https://github.com/matomo-org/docker/tree/master/.examples/nginx) fourni par Matomo.
 
 ## Explication des modifications
